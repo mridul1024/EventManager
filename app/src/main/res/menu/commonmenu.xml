@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Profile"
+        android:id="@+id/menu_profile"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:title="Create event"
+        android:id="@+id/menu_create"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:title="Remove event"
+        android:id="@+id/menu_remove"
+        android:showAsAction="never"
+        />
+
+</menu>

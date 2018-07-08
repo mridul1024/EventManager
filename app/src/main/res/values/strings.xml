@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Manager</string>
+    <array name="type">
+        <item>Technology</item>
+        <item>Literature</item>
+        <item>Sports</item>
+        <item>Entertainment</item>
+    </array>
+    >
+</resources>
