@@ -5,10 +5,15 @@
 - [UI screenshots] (#screenshots)
 
 ## General info
-lorem ipsum one
+Android application for checking for an event happening in your area. It lists various new activites for the user to browse through. User's can check the details of the events which interest's them and can connect to the management staff of that perticular event for performing further actions.
 
 ## Technologies
-lorem ipsum two
+- Android Studio
+- SQLite
 
 ## Screenshots
-lorem ipsum screenshot
+
+```
+I will put the screenshots later
+
+```
