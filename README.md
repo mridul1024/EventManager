@@ -1,8 +1,8 @@
 # Table of contents
 
-- [General info about the project] (#General info)
-- [Technologies used in the project] (#Technologies)
-- [UI screenshots] (#Screenshots)
+- [General info about the project] (#general-info)
+- [Technologies used in the project] (#technologies)
+- [UI screenshots] (#screenshots)
 
 ## General info
 lorem ipsum one
