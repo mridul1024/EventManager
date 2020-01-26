@@ -13,7 +13,7 @@ Android application for checking for an event happening in your area. It lists v
 
 ## Screenshots
 
-```
+```java
 public static void getData(String name){
   this.name = name;
 }
