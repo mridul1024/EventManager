@@ -14,6 +14,7 @@ Android application for checking for an event happening in your area. It lists v
 ## Screenshots
 
 ```
-I will put the screenshots later
-
-```
+public static void getData(String name){
+  this.name = name;
+  }
+  ```
